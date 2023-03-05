@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Di tu nombre APP</string>
+    <string name="go_back_btn">Go Back</string>
+    <string name="sing_in_btn">Ingresar</string>
+    <string name="et_name">Escribe tu nombre aquí</string>
+    <string name="tv_question">¿Cómo te llamas?</string>
+</resources>
